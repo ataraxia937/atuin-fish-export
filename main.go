@@ -1,3 +1,7 @@
+/*
+Taken from https://github.com/atuinsh/atuin/issues/1073#issuecomment-1610861147
+Credit to https://github.com/zxh326
+*/
 package main
 
 import (
@@ -8,9 +12,7 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 )
 
-var (
-	home string
-)
+var home string
 
 func init() {
 	home, _ = os.UserHomeDir()
