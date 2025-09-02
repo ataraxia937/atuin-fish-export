@@ -9,7 +9,7 @@ I did nothing to the actual code, I just set up this repo for it.
 
 ## Original source
 
-Import this useful tool from atuinsh/atuin#1073 (comment)
+atuinsh/atuin#1073 (comment)
 
 ## Original author
 
