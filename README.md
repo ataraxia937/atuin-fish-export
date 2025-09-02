@@ -24,7 +24,7 @@ Download the latest release from the [releases page](https://github.com/ataraxia
 ### From source
 
 ```fish
-go install github.com/ataraxia937/atuin-fish-export
+go install github.com/ataraxia937/atuin-fish-export@latest
 ```
 
 ## Usage
