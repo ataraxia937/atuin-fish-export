@@ -5,6 +5,16 @@ shell history database. This is useful because it allows fish's autosuggestions
 to be correct and helpful on a new install, when Atuin has your history, but
 fish doesn't.
 
+I did nothing to the actual code, I just set up this repo for it.
+
+## Original source
+
+Import this useful tool from atuinsh/atuin#1073 (comment)
+
+## Original author
+
+https://github.com/zxh326
+
 ## Installation
 
 ### From prebuilt binary
