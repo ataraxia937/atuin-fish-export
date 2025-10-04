@@ -50,7 +50,7 @@ func main() {
 	for rows.Next() {
 		var id, command, cwd, session, hostname string
 		var timestamp, duration, exit int
-		var deleted_at interface{}
+		var deleted_at any
 
 		err = rows.Scan(&id, &timestamp, &duration, &exit, &command, &cwd, &session, &hostname, &deleted_at)
 		if err != nil {
